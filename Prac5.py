@@ -1,3 +1,2 @@
-letter=input()
-print(letter.swapcase())
-
+string = "HackerRank.com presents Pythonist2."
+print(string.swapcase())
